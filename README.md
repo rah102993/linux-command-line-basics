@@ -4,8 +4,7 @@
 
 ## Project Overview
 
-This repository demonstrates practical Linux administration skills that are essential for cybersecurity professionals. The lab covers file management, Linux permissions, software administration, networking, and Bash scripting through real-world command-line exercises performed on Kali Linux. :contentReference[oaicite:0]{index=0}
-
+This repository demonstrates practical Linux administration skills that are essential for cybersecurity professionals. The lab covers file management, Linux permissions, software administration, networking, and Bash scripting through real-world command-line exercises performed on Kali Linux. 
 Rather than focusing on theory, this project emphasizes practical skills used by SOC Analysts, System Administrators, Penetration Testers, and Blue Team professionals.
 
 ---
@@ -21,7 +20,7 @@ The goal of this project was to gain hands-on experience with core Linux adminis
 - Network troubleshooting
 - Bash scripting and automation
 
-These are foundational skills required in cybersecurity operations. :contentReference[oaicite:1]{index=1}
+These are foundational skills required in cybersecurity operations.
 
 ---
 
@@ -96,7 +95,7 @@ ls -l
 
 ### Cybersecurity Relevance
 
-Linux permissions implement the **Principle of Least Privilege**, helping reduce unauthorized access to files and systems. :contentReference[oaicite:2]{index=2}
+Linux permissions implement the **Principle of Least Privilege**, helping reduce unauthorized access to files and systems.
 
 ---
 
@@ -130,7 +129,6 @@ System reconnaissance is often the first step in:
 - Incident Response
 - Asset Inventory
 
-:contentReference[oaicite:3]{index=3}
 
 ---
 
@@ -153,7 +151,7 @@ sudo apt remove
 
 ### Cybersecurity Relevance
 
-Keeping systems updated reduces exposure to known vulnerabilities and is a critical security best practice. :contentReference[oaicite:4]{index=4}
+Keeping systems updated reduces exposure to known vulnerabilities and is a critical security best practice.
 
 ---
 
@@ -186,7 +184,7 @@ Network troubleshooting skills are essential for:
 - Firewall Troubleshooting
 - Network Security Analysis
 
-:contentReference[oaicite:5]{index=5}
+
 
 ---
 
@@ -218,7 +216,6 @@ Automation is widely used in cybersecurity for:
 - Security Auditing
 - Repetitive Administrative Tasks
 
-:contentReference[oaicite:6]{index=6}
 
 ---
 
@@ -299,7 +296,7 @@ chmod +x
 
 # Screenshots
 
-The project includes screenshots demonstrating the successful completion of every task performed in the Kali Linux virtual machine. :contentReference[oaicite:7]{index=7}
+The project includes screenshots demonstrating the successful completion of every task performed in the Kali Linux virtual machine.
 
 Examples include:
 
@@ -337,7 +334,7 @@ Through this project, I developed practical experience in Linux system administr
 - Incident Responder
 - Penetration Tester
 
-The exercises strengthened my confidence using the Linux command line while demonstrating how administration skills directly support defensive security operations. :contentReference[oaicite:8]{index=8}
+The exercises strengthened my confidence using the Linux command line while demonstrating how administration skills directly support defensive security operations.
 
 ---
 
